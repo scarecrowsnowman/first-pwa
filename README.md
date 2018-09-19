@@ -1,1 +1,1 @@
-# first-pwa
+# qm-pwa-starter-template
